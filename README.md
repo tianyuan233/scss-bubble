@@ -1,1 +1,1 @@
-!![alt](./demo.gif)
+![alt](./demo.gif)
